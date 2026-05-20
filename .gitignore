@@ -1,0 +1,19 @@
+# RStudio / System files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+# Deployment / Secret files
+rsconnect/
+
+# Massive Data (Backend)
+data-raw/
+Thesis_Master_Results.xlsx
+
+# Exclude random trial-and-error scrapers
+Archive/
+.positai
+data/Danya_Master_Dashboard_Data.csv
+data/Full_Master_Dashboard_Data.csv
