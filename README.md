@@ -1,6 +1,6 @@
 # Chess Under Surveillance
 
-[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Click_Here-2563EB?style=for-the-badge)]([https://rcjesinger.shinyapps.io/chess-thesis-dashboard/])
+[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Click_Here-2563EB?style=for-the-badge)](https://rcjesinger.shinyapps.io/chess-surveillance-dashboard/)
 
 Hi! I'm Rena. This repository holds the code for my undergraduate senior thesis in Science & Technology Studies (STS) at UC Davis. 
 
